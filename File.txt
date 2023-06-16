@@ -1,0 +1,4 @@
+Today we are going to learn How to improve our app in React Native 
+1.Use Memo Hooks
+2.its use to increase the our app performace. 
+3.What is different between useEffect and Use Memo in useEffect() we can not return the value and also we can not assign value in side any state and varible but in useMemo we can return value and also we assign in side side state Variable and will be not rerendered components.
